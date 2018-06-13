@@ -1,0 +1,11 @@
+thead{
+    color: #337ab7;
+}
+
+tbody{
+    text-align: left;
+}
+
+.table-responsive{
+    overflow-x: unset;
+}
